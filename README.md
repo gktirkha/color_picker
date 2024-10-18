@@ -1,0 +1,1 @@
+hosted at [github](https://gktirkha.github.io/color_picker/)
